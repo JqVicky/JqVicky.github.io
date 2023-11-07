@@ -21,7 +21,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 ## <span style="color:#CB4335">Papers</span>
 
 **Towards Causal Foundation Model: on Duality between Causal Inference and Attention**\\
-Jiaqi Zhang, Joel Jennings, Cheng Zhang, Chao Ma. _arXiv preprint_, 2023.\\
+Jiaqi Zhang\*, Joel Jennings, Cheng Zhang, Chao Ma\*. _arXiv preprint_, 2023.\\
 [[arXiv](https://arxiv.org/abs/2310.00809)]
 [[code (coming soon)]()]
 
