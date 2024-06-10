@@ -5,14 +5,17 @@ permalink: /talk/
 ---
 
 ### <span style="color:#CB4335">Invited Talks</span>
-- 2024/02. [Bellairs Workshop on Causality](https://bclworkshop.github.io/2024/#attendees). Talked about "Causal Representation Learning in Genomics".
-- 2023/12. [Causality, Abstraction, Reasoning, & Extrapolation Seminar](https://portal.valencelabs.com/care). Talked about "Causal Representation Learning via Soft Interventions: Identifiability and Combinatorial Extrapolation".
-- 2023/11. [Models, Inference & Algorithms Seminar](https://www.broadinstitute.org/talks/fall-2023/mia). Talked about "Causal representation learning of genetic perturbations: identifiability and combinatorial extrapolation".
-- 2023/07. [Relation Therapeutics](https://www.relationrx.com). Talked about "Causal Representation Learning of Genetic Perturbation using Discrepancy-based Auto-encoding Bayes".
-- 2023/04. [Cell Circuits and Epigenomics Seminar](https://www.broadinstitute.org/genomeregulation-cellcircuitry-epigenomics). Talked about "Causal Learning and Optimal Design of Genetic Perturbation".
-- 2023/01. [Causality Seminar](https://sites.google.com/view/zhigao-guo/causality-seminar). Talked about "Experimental Design in Causal Model".
-- 2022/11. [Klarman Cell Observatory Seminar](https://www.broadinstitute.org/klarman-cell-observatory). Talked about "Active Learning for Optimal Intervention Design in Causal Models for Biological Applications".
-- 2022/10. [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home). Talked about "Active learning for optimal inrtervention design in causal model".
+- 2024/05. [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/). "Learning Causal Representations: Identifiability and Extrapolation to Unseen Interventions".
+- 2024/04. [MIT Health Science Technology (HST) Conference](https://ilp.mit.edu/HST24). "Optimal Experimental Design for Genetic Perturbation".
+- 2024/03. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). Discussant on "Towards Causal Foundation Models: on Duality between Causal Inference and Attention".
+- 2024/02. [Bellairs Workshop on Causality](https://bclworkshop.github.io/2024/#attendees). "Causal Representation Learning in Genomics".
+- 2023/12. [Causality, Abstraction, Reasoning, & Extrapolation (CARE) Seminar](https://portal.valencelabs.com/care). "Causal Representation Learning via Soft Interventions: Identifiability and Combinatorial Extrapolation".
+- 2023/11. [Models, Inference & Algorithms (MIA) Seminar](https://www.broadinstitute.org/talks/fall-2023/mia). "Causal representation learning of genetic perturbations: identifiability and combinatorial extrapolation".
+- 2023/07. [Relation Therapeutics](https://www.relationrx.com). "Causal Representation Learning of Genetic Perturbation using Discrepancy-based Auto-encoding Bayes".
+- 2023/04. [Cell Circuits and Epigenomics (CC&E) Seminar](https://www.broadinstitute.org/genomeregulation-cellcircuitry-epigenomics). "Causal Learning and Optimal Design of Genetic Perturbation".
+- 2023/01. [Causality Seminar](https://sites.google.com/view/zhigao-guo/causality-seminar). "Experimental Design in Causal Model".
+- 2022/11. [Klarman Cell Observatory (KCO) Seminar](https://www.broadinstitute.org/klarman-cell-observatory). "Active Learning for Optimal Intervention Design in Causal Models for Biological Applications".
+- 2022/10. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). Talked about "Active learning for optimal inrtervention design in causal model".
 
 
 

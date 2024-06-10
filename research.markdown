@@ -5,17 +5,27 @@ permalink: /research/
 ---
 
 ### <span style="color:#CB4335">Papers</span>
-**Membership Testing in Markov Equivalence Classes via Independence Query Oracles**\\
-Jiaqi Zhang\*, Kirankumar Shiragur\*, Caroline Uhler. _AISTATS (**Oral Presentation, <3%**)_, 2024.\\
-[[arXiv](https://arxiv.org/abs/2403.05759)]
-[[bibtex](/testing-mec/)]
+
+_Note:_ \* stands for equal contributions; $^\dagger$ stands for students that I mentored.
+
+**Causal Discovery with Fewer Conditional Independence Tests**\\
+Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _ICML_, 2024.\\
+[[arXiv](https://arxiv.org/abs/2406.01823)]
+[[code](https://github.com/uhlerlab/CCPG)]
+[[bibtex](/CCPG/)]
 
 
 **Towards Causal Foundation Model: on Duality between Causal Inference and Attention**\\
-Jiaqi Zhang\*, Joel Jennings, Cheng Zhang, Chao Ma\*. _arXiv preprint_, 2023.\\
+Jiaqi Zhang\*, Joel Jennings, Agrin Hilmkil, Nick Pawlowski, Cheng Zhang, Chao Ma\*. _ICML_, 2024.\\
 [[arXiv](https://arxiv.org/abs/2310.00809)]
-[[code (coming soon)]()]
+[[code](https://github.com/microsoft/causica/tree/main/research_experiments/cina)]
 [[bibtex](/attention-causal-duality/)]
+
+**Membership Testing in Markov Equivalence Classes via Independence Query Oracles**\\
+Jiaqi Zhang\*, Kirankumar Shiragur\*, Caroline Uhler. _AISTATS (**Oral Presentation, <3%**)_, 2024.\\
+[[arXiv](https://arxiv.org/abs/2403.05759)]
+[[conference](https://proceedings.mlr.press/v238/zhang24k.html)]
+[[bibtex](/testing-mec/)]
 
 **Meek Separators and Their Applications in Targeted Causal Discovery**\\
 Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _NeurIPS_, 2023.\\

@@ -4,12 +4,12 @@ permalink: /testing-mec/
 ---
 
 ```
-@misc{zhang2024membership,
-      title={Membership Testing in Markov Equivalence Classes via Independence Query Oracles}, 
-      author={Jiaqi Zhang and Kirankumar Shiragur and Caroline Uhler},
-      year={2024},
-      eprint={2403.05759},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{zhang2024membership,
+  title={Membership Testing in Markov Equivalence Classes via Independence Queries},
+  author={Zhang, Jiaqi and Shiragur, Kirankumar and Uhler, Caroline},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={3925--3933},
+  year={2024},
+  organization={PMLR}
 }
 ```

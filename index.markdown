@@ -12,7 +12,7 @@ layout: home
 I’m a fourth year Ph.D. student in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing statistical and algorithmic foundations for decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships using data, extrapolate to predict the effects of unseen interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools allow us to learn from and better design large-scale interventional experiments (e.g., using genetic or chemical perturbations). 
 
 
-My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu) and [Le Cong](http://clbiology.com/index.html).
+My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I am currently interning at [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html) and was a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu) and [Le Cong](http://clbiology.com/index.html).
 
 ## <span style="color:#CB4335">News</span>
 
@@ -20,16 +20,24 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 
 ## <span style="color:#CB4335">Papers</span>
 
+**Causal Discovery with Fewer Conditional Independence Tests**\\
+Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _ICML_, 2024.\\
+[[arXiv](https://arxiv.org/abs/2406.01823)]
+[[code](https://github.com/uhlerlab/CCPG)]
+[[bibtex](/CCPG/)]
+
+
+**Towards Causal Foundation Model: on Duality between Causal Inference and Attention**\\
+Jiaqi Zhang\*, Joel Jennings, Agrin Hilmkil, Nick Pawlowski, Cheng Zhang, Chao Ma\*. _ICML_, 2024.\\
+[[arXiv](https://arxiv.org/abs/2310.00809)]
+[[code](https://github.com/microsoft/causica/tree/main/research_experiments/cina)]
+[[bibtex](/attention-causal-duality/)]
+
 **Membership Testing in Markov Equivalence Classes via Independence Query Oracles**\\
 Jiaqi Zhang\*, Kirankumar Shiragur\*, Caroline Uhler. _AISTATS (**Oral Presentation, <3%**)_, 2024.\\
 [[arXiv](https://arxiv.org/abs/2403.05759)]
+[[conference](https://proceedings.mlr.press/v238/zhang24k.html)]
 [[bibtex](/testing-mec/)]
-
-**Towards Causal Foundation Model: on Duality between Causal Inference and Attention**\\
-Jiaqi Zhang\*, Joel Jennings, Cheng Zhang, Chao Ma\*. _arXiv preprint_, 2023.\\
-[[arXiv](https://arxiv.org/abs/2310.00809)]
-[[code (coming soon)]()]
-[[bibtex](/attention-causal-duality/)]
 
 **Meek Separators and Their Applications in Targeted Causal Discovery**\\
 Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _NeurIPS_, 2023.\\
