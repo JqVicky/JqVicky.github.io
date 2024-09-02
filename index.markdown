@@ -5,14 +5,14 @@
 layout: home
 ---
 
-<img src="./asset/IMG_4878.jpg" width="400">
+<img src="./asset/IMG_1724128787381.jpg" width="300">
 
 ## <span style="color:#CB4335">About Me</span>
 
-I’m a fourth year Ph.D. student in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing statistical and algorithmic foundations for decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships using data, extrapolate to predict the effects of unseen interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools allow us to learn from and better design large-scale interventional experiments (e.g., using genetic or chemical perturbations). 
+I’m a Ph.D. student in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing statistical and algorithmic foundations for decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships using data, extrapolate to predict the effects of unseen interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools allow us to learn from and better design large-scale interventional experiments (e.g., using genetic or chemical perturbations). 
 
 
-My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I am currently interning at [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html) and was a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu) and [Le Cong](http://clbiology.com/index.html).
+My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/) and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu) and [Le Cong](http://clbiology.com/index.html).
 
 ## <span style="color:#CB4335">News</span>
 

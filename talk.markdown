@@ -5,6 +5,7 @@ permalink: /talk/
 ---
 
 ### <span style="color:#CB4335">Invited Talks</span>
+- 2024/07. [International Conference on Frontiers of Data Science](https://www.zjuyh.com/data2024en/rb/?language=en-us). "Causal Discovery with Fewer Independence Tests".
 - 2024/05. [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/). "Learning Causal Representations: Identifiability and Extrapolation to Unseen Interventions".
 - 2024/04. [MIT Health Science Technology (HST) Conference](https://ilp.mit.edu/HST24). "Optimal Experimental Design for Genetic Perturbation".
 - 2024/03. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). Discussant on "Towards Causal Foundation Models: on Duality between Causal Inference and Attention".
