@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="./asset/IMG_1724128787381.jpg" width="300">
+<img src="./asset/IMG_1724128787381.JPG" width="300">
 
 ## <span style="color:#CB4335">About Me</span>
 
