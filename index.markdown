@@ -4,28 +4,74 @@
 
 layout: home
 ---
+<img src="./asset/IMG_3013913.JPG" width="666">
 
-<img src="./asset/IMG_1724128787381.JPG" width="300">
+## <span style="color:#556B2F">About Me
 
-## <span style="color:#CB4335">About Me</span>
+I’m a Ph.D. student in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing statistical and algorithmic foundations for discovery and decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships from data, model and extrapolate to predict the effects of interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools help accelerate mechanistic discovery and translation to biomedical engineering.
 
-I’m a Ph.D. student in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing statistical and algorithmic foundations for decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships using data, extrapolate to predict the effects of unseen interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools allow us to learn from and better design large-scale interventional experiments (e.g., using genetic or chemical perturbations). 
+My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Byedance](https://www.bytedance.com/en/resources/offices/5e429e0805204d81e5b45c92), [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/), and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu), and [Le Cong](http://clbiology.com/index.html).
 
+## <span style="color:#556B2F">News
 
-My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/) and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu) and [Le Cong](http://clbiology.com/index.html).
+- Dec, 2025 (upcoming). We are organizing a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the topics and join us!
+- Jul, 2025. We organized the ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
+- Jul, 2025. _[How to more efficiently study complex treatment interaction](https://news.mit.edu/2025/more-efficiently-studying-complex-treatment-interactions-0716)_: MIT news covered our [work](https://icml.cc/virtual/2025/poster/45285) on experimental design.
+- Nov, 2024. _[A causal theory for studying the cause-and-effect relationships of genes](https://news.mit.edu/2024/causal-theory-studying-cause-and-effect-relationships-genes-1107)_: MIT news covered our [work](https://neurips.cc/virtual/2024/poster/95550) on causal theory.
+- Oct, 2023. _[A more effective experimental design for engineering a cell into a new state](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002)_: MIT news covered our [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [EWSC news](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
 
-## <span style="color:#CB4335">News</span>
+## <span style="color:#556B2F">Papers
 
-- [_A more effective experimental design for engineering a cell into a new state_](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002): news story covering our recent [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [_EWSC news_](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
+### <span style="color:#556B2F">Preprints
 
-## <span style="color:#CB4335">Papers</span>
+**MORPH predicts the single-cell outcome of genetic perturbations across various data modalities**\\
+Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]
+[[code](https://github.com/uhlerlab/MORPH)]
+[[bibtex](morph)]
+
+**On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
+Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.
+
+**Learning Genetic Perturbation Effects with Variational Causal Inference**\\
+Emily Liu$\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
+[[code](https://github.com/uhlerlab/sccvae)]
+[[bibtex](sccvae)]
+
+**Faithfulness and Intervention-Only Causal Discovery**\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
+[[workshop](https://icml.cc/virtual/2025/47390)]
+
+**Meta-Dependence in Conditional Independence Testing**\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
+[[arXiv](https://arxiv.org/abs/2504.12594)]
+[[code](https://github.com/honeybijan/CIMD_experiments)]
+[[bibtex](meta-dep-ci)]
+
+### <span style="color:#556B2F">Publications
+
+**Can Diffusion Models Disentangle? A Theoretical Perspective**\\
+Liming Wang, Muhammad Jehanzeb Mirza, Yishu Gong, Yuan Gong, Jiaqi Zhang, Brian H. Tracey, Katerina Placek, Marco Vilela, James R. Glass. _NeurIPS_, 2025.
+
+**Probabilistic Factorial Experimental Design for Combinatorial Interventions**\\
+Divyal Shyamal$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _ICML (**Spotlight, < 2.6%**)_, 2025.\\
+[[arXiv](https://arxiv.org/abs/2506.03363)]
+[[conference](https://icml.cc/virtual/2025/poster/45285)]
+[[bibtex](prob-fact-des)]
+
+**Identifiabiltiy Guarantees of Causal Disentanglement from Purely Observational Data**\\
+Ryan Welch$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _NeurIPS_, 2024.\\
+[[arXiv](https://arxiv.org/abs/2410.23620)]
+[[code](https://github.com/uhlerlab/observational-crl)]
+[[conference](https://neurips.cc/virtual/2024/poster/95550)]
+[[bibtex](observational-crl)]
 
 **Causal Discovery with Fewer Conditional Independence Tests**\\
 Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _ICML_, 2024.\\
 [[arXiv](https://arxiv.org/abs/2406.01823)]
 [[code](https://github.com/uhlerlab/CCPG)]
 [[bibtex](/CCPG/)]
-
 
 **Towards Causal Foundation Model: on Duality between Causal Inference and Attention**\\
 Jiaqi Zhang\*, Joel Jennings, Agrin Hilmkil, Nick Pawlowski, Cheng Zhang, Chao Ma\*. _ICML_, 2024.\\

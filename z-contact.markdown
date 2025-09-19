@@ -1,12 +1,14 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact/
 ---
 
-You can reach me via email:
+You can reach me via emails:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#CB4335">viczhang (at) mit (dot) edu</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#556B2F">viczhang (at) mit (dot) edu</span>
 
-or [X (Twitter)](https://twitter.com/JiaqiZhangVic)! 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#556B2F">jiaqivic (at) broadinstitute (dot) org</span>
+
+or [X (Twitter)](https://twitter.com/JiaqiZhangVic) or [LinkedIn](https://www.linkedin.com/in/jiaqi-zhang-34b490180/)! 
 

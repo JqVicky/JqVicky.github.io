@@ -1,19 +1,66 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 ---
 
-### <span style="color:#CB4335">Papers</span>
+### <span style="color:#556B2F">Papers</span>
 
-_Note:_ \* stands for equal contributions; $^\dagger$ stands for students that I mentored.
+_Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that I mentored.
+
+#### <span style="color:#556B2F">Preprints</span>
+
+**MORPH predicts the single-cell outcome of genetic perturbations across various data modalities**\\
+Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]
+[[code](https://github.com/uhlerlab/MORPH)]
+[[bibtex](morph)]
+
+**On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
+Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. 
+
+**Learning Genetic Perturbation Effects with Variational Causal Inference**\\
+Emily Liu$\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
+[[code](https://github.com/uhlerlab/sccvae)]
+[[bibtex](sccvae)]
+
+**Faithfulness and Intervention-Only Causal Discovery**\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
+[[workshop](https://icml.cc/virtual/2025/47390)]
+
+**Meta-Dependence in Conditional Independence Testing**\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
+[[arXiv](https://arxiv.org/abs/2504.12594)]
+[[code](https://github.com/honeybijan/CIMD_experiments)]
+[[bibtex](meta-dep-ci)]
+
+
+#### <span style="color:#556B2F">Publications</span>
+
+**Can Diffusion Models Disentangle? A Theoretical Perspective**\\
+Liming Wang, Muhammad Jehanzeb Mirza, Yishu Gong, Yuan Gong, Jiaqi Zhang, Brian H. Tracey, Katerina Placek, Marco Vilela, James R. Glass. _NeurIPS_, 2025.
+
+
+**Probabilistic Factorial Experimental Design for Combinatorial Interventions**\\
+Divyal Shyamal$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _ICML (**Spotlight, < 2.6%**)_, 2025.\\
+[[arXiv](https://arxiv.org/abs/2506.03363)]
+[[conference](https://icml.cc/virtual/2025/poster/45285)]
+[[bibtex](prob-fact-des)]
+
+
+**Identifiabiltiy Guarantees of Causal Disentanglement from Purely Observational Data**\\
+Ryan Welch$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _NeurIPS_, 2024.\\
+[[arXiv](https://arxiv.org/abs/2410.23620)]
+[[code](https://github.com/uhlerlab/observational-crl)]
+[[conference](https://neurips.cc/virtual/2024/poster/95550)]
+[[bibtex](observational-crl)]
 
 **Causal Discovery with Fewer Conditional Independence Tests**\\
 Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _ICML_, 2024.\\
 [[arXiv](https://arxiv.org/abs/2406.01823)]
 [[code](https://github.com/uhlerlab/CCPG)]
 [[bibtex](/CCPG/)]
-
 
 **Towards Causal Foundation Model: on Duality between Causal Inference and Attention**\\
 Jiaqi Zhang\*, Joel Jennings, Agrin Hilmkil, Nick Pawlowski, Cheng Zhang, Chao Ma\*. _ICML_, 2024.\\
@@ -49,7 +96,7 @@ Jiaqi Zhang, Louis Cammarata, Chandler Squires, Themistoklis P Sapsis, Caroline 
 [[bibtex](/active-learning-intervention/)]
 
 **Machine-learning-optimized Cas12a barcoding enables the recovery of single-cell lineages and transcriptional profiles**\\
-Nicholas W Hughes, Yuanhao Qu\*, Jiaqi Zhang\*, ..., Monte M Winslow, Mengdi Wang, Le Cong. _Molecular Cell_, 2022.\\
+Nicholas W Hughes, Yuanhao Qu\*, Jiaqi Zhang\*, Weijing Tang\*, Justin Pierce\*, Chengkun Wang, Aditi Agrawal, Maurizio Morri, Norma Neff, Monte M Winslow, Mengdi Wang, Le Cong. _Molecular Cell_, 2022.\\
 [[code](https://zenodo.org/records/6549091)]
 [[journal](https://www.sciencedirect.com/science/article/pii/S1097276522005378)]
 [[bibtex](/barcode-design/)]
