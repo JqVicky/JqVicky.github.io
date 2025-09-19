@@ -28,7 +28,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]
 [[code](https://github.com/uhlerlab/MORPH)]
-[[bibtex](morph)]
+[[bibtex](/morph/)]
 
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
 Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.
@@ -37,7 +37,7 @@ Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.
 Emily Liu$\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
 [[code](https://github.com/uhlerlab/sccvae)]
-[[bibtex](sccvae)]
+[[bibtex](/sccvae/)]
 
 **Faithfulness and Intervention-Only Causal Discovery**\\
 Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
@@ -47,7 +47,7 @@ Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
 Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
 [[arXiv](https://arxiv.org/abs/2504.12594)]
 [[code](https://github.com/honeybijan/CIMD_experiments)]
-[[bibtex](meta-dep-ci)]
+[[bibtex](/meta-dep-ci/)]
 
 ### <span style="color:#556B2F">Publications
 
@@ -58,14 +58,14 @@ Liming Wang, Muhammad Jehanzeb Mirza, Yishu Gong, Yuan Gong, Jiaqi Zhang, Brian 
 Divyal Shyamal$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _ICML (**Spotlight, < 2.6%**)_, 2025.\\
 [[arXiv](https://arxiv.org/abs/2506.03363)]
 [[conference](https://icml.cc/virtual/2025/poster/45285)]
-[[bibtex](prob-fact-des)]
+[[bibtex](/prob-fact-des/)]
 
 **Identifiabiltiy Guarantees of Causal Disentanglement from Purely Observational Data**\\
 Ryan Welch$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _NeurIPS_, 2024.\\
 [[arXiv](https://arxiv.org/abs/2410.23620)]
 [[code](https://github.com/uhlerlab/observational-crl)]
 [[conference](https://neurips.cc/virtual/2024/poster/95550)]
-[[bibtex](observational-crl)]
+[[bibtex](/observational-crl/)]
 
 **Causal Discovery with Fewer Conditional Independence Tests**\\
 Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _ICML_, 2024.\\
