@@ -24,7 +24,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 
 ### <span style="color:#556B2F">Preprints
 
-**MORPH predicts the single-cell outcome of genetic perturbations across various data modalities**\\
+**MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]
 [[code](https://github.com/uhlerlab/MORPH)]
@@ -34,7 +34,7 @@ Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.
 
 **Learning Genetic Perturbation Effects with Variational Causal Inference**\\
-Emily Liu$\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
+Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
 [[code](https://github.com/uhlerlab/sccvae)]
 [[bibtex](/sccvae/)]
