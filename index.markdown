@@ -10,15 +10,15 @@ layout: home
 
 I’m a Ph.D. student in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing statistical and algorithmic foundations for discovery and decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships from data, model and extrapolate to predict the effects of interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools help accelerate mechanistic discovery and translation to biomedical engineering.
 
-My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/people/phd-fellows) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Byedance](https://www.bytedance.com/en/resources/offices/5e429e0805204d81e5b45c92), [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/), and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu), and [Le Cong](http://clbiology.com/index.html).
+My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/graduate-students) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Byedance](https://www.bytedance.com/en/resources/offices/5e429e0805204d81e5b45c92), [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/), and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu), and [Le Cong](http://clbiology.com/index.html).
 
 ## <span style="color:#556B2F">News
 
-- Dec, 2025 (upcoming). We are organizing a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the topics and join us!
-- Jul, 2025. We organized the ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
-- Jul, 2025. _[How to more efficiently study complex treatment interaction](https://news.mit.edu/2025/more-efficiently-studying-complex-treatment-interactions-0716)_: MIT news covered our [work](https://icml.cc/virtual/2025/poster/45285) on experimental design.
-- Nov, 2024. _[A causal theory for studying the cause-and-effect relationships of genes](https://news.mit.edu/2024/causal-theory-studying-cause-and-effect-relationships-genes-1107)_: MIT news covered our [work](https://neurips.cc/virtual/2024/poster/95550) on causal theory.
-- Oct, 2023. _[A more effective experimental design for engineering a cell into a new state](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002)_: MIT news covered our [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [EWSC news](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
+- Dec., 2025 (upcoming). We are organizing a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the topics and join us!
+- Jul., 2025. We organized an ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
+- Jul., 2025. _[How to more efficiently study complex treatment interaction](https://news.mit.edu/2025/more-efficiently-studying-complex-treatment-interactions-0716)_: MIT news covered our [work](https://icml.cc/virtual/2025/poster/45285) on experimental design.
+- Nov., 2024. _[A causal theory for studying the cause-and-effect relationships of genes](https://news.mit.edu/2024/causal-theory-studying-cause-and-effect-relationships-genes-1107)_: MIT news covered our [work](https://neurips.cc/virtual/2024/poster/95550) on causal theory.
+- Oct., 2023. _[A more effective experimental design for engineering a cell into a new state](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002)_: MIT news covered our [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [EWSC news](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
 
 ## <span style="color:#556B2F">Papers
 
@@ -92,22 +92,22 @@ Kirankumar Shiragur\*, Jiaqi Zhang\*, Caroline Uhler. _NeurIPS_, 2023.\\
 [[conference](https://neurips.cc/virtual/2023/poster/70884)]
 [[bibtex](/meek-sep/)]
 
-**Identifiability guarantees for causal disentanglement from soft interventions**\\
+**Identifiability Guarantees for Causal Disentanglement from Soft Interventions**\\
 Jiaqi Zhang, Kristjan Greenewald, Chandler Squires, Akash Srivastava, Karthikeyan Shanmugam, Caroline Uhler. _NeurIPS_, 2023.\\
 [[arXiv](https://arxiv.org/abs/2307.06250)]
 [[code](https://github.com/uhlerlab/discrepancy_vae)]
 [[conference](https://neurips.cc/virtual/2023/poster/70478)]
 [[bibtex](/identifiability-crl/)]
 
-**Active learning for optimal intervention design in causal models**\\
+**Active Learning for Optimal Intervention Design in Causal Models**\\
 Jiaqi Zhang, Louis Cammarata, Chandler Squires, Themistoklis P Sapsis, Caroline Uhler. _Nature Machine Intelligence_, 2023.\\
 [[arXiv](https://arxiv.org/abs/2209.04744)]
 [[code](https://github.com/uhlerlab/actlearn_optint/tree/v1)]
 [[journal](https://www.nature.com/articles/s42256-023-00719-0)]
 [[bibtex](/active-learning-intervention/)]
 
-**Machine-learning-optimized Cas12a barcoding enables the recovery of single-cell lineages and transcriptional profiles**\\
-Nicholas W Hughes, Yuanhao Qu\*, Jiaqi Zhang\*, ..., Monte M Winslow, Mengdi Wang, Le Cong. _Molecular Cell_, 2022.\\
+**Machine-learning-optimized Cas12a Barcoding Enables the Recovery of Single-cell Lineages and Transcriptional Profiles**\\
+Nicholas W Hughes, Yuanhao Qu\*, Jiaqi Zhang\*, Weijing Tang\*, Justin Pierce\*, Chengkun Wang, Aditi Agrawal, Maurizio Morri, Norma Neff, Monte M Winslow, Mengdi Wang, Le Cong. _Molecular Cell_, 2022.\\
 [[code](https://zenodo.org/records/6549091)]
 [[journal](https://www.sciencedirect.com/science/article/pii/S1097276522005378)]
 [[bibtex](/barcode-design/)]
@@ -117,7 +117,7 @@ Jiaqi Zhang, Zeyu Jin, Bo Jiang, Zaiwen Wen. _IEEE Transactions on Wireless Comm
 [[journal](https://ieeexplore.ieee.org/abstract/document/9787340)]
 [[bibtex](/stochastic-apg-pmi/)]
 
-**Matching a desired causal state via shift interventions**\\
+**Matching a Desired Causal State via Shift Interventions**\\
 Jiaqi Zhang, Chandler Squires, Caroline Uhler. _NeurIPS_, 2021.\\
 [[arXiv](https://arxiv.org/abs/2107.01850)]
 [[code](https://github.com/uhlerlab/causal_mean_matching)]
