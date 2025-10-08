@@ -24,6 +24,9 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 
 ### <span style="color:#556B2F">Preprints
 
+**Causal Structure and Representation Learning with Biomedical Applications**\\
+Caroline Uhler\*, Jiaqi Zhang\*.
+
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]

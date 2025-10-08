@@ -10,6 +10,9 @@ _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that 
 
 #### <span style="color:#556B2F">Preprints</span>
 
+**Causal Structure and Representation Learning with Biomedical Applications**\\
+Caroline Uhler\*, Jiaqi Zhang\*.
+
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]

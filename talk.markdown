@@ -5,6 +5,7 @@ permalink: /talk/
 ---
 ### <span style="color:#556B2F">Invited Talks
 
+- Oct., 2025. [Gene Regulation Observatory (GRO) Seminar](https://sites.broadinstitute.org/gro). "A Community Computational Challenge to Predict Perturbational Effects on T Cell State Proportions for Effective Cancer Immunotherapy".
 - Sep., 2025. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). "Learning Causal Cellular Programs from Large-scale Perturbations".
 - Dec., 2024. [Broad Annual Retreat](https://www.broadinstitute.org). "Learning and Design of Large-scale Perturbations".
 - Oct., 2024. [Cornell ORIE Young Researchers Workshop](https://www.engineering.cornell.edu/orie-events/young-researchers-workshop-2024). "Design and Learning from Large-scale Interventions".
@@ -22,6 +23,12 @@ permalink: /talk/
 - Oct., 2022. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). "Active learning for optimal inrtervention design in causal model".
 
 ### <span style="color:#556B2F">Online Videos
+
+- Sep., 2025. Learning Causal Cellular Programs from Large-scale Perturbations
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fGCPabNMkh0?si=1Kl6n0UZjfv6xYIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br />
 
 - Dec., 2023. Causal Representation Learning via Soft Interventions: Identifiability and Combinatorial Extrapolation
 
