@@ -5,6 +5,7 @@ permalink: /talk/
 ---
 ### <span style="color:#556B2F">Invited Talks
 
+- Oct., 2025. [Model Inference & Algorithms (MIA) 10-Year Anniversary Celebration](http://events.broadinstitute.org/event/mia-10-year-anniversary-celebration). "How to predict perturbational changes on biological systems?".
 - Oct., 2025. [Gene Regulation Observatory (GRO) Seminar](https://sites.broadinstitute.org/gro). "A Community Computational Challenge to Predict Perturbational Effects on T Cell State Proportions for Effective Cancer Immunotherapy".
 - Sep., 2025. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). "Learning Causal Cellular Programs from Large-scale Perturbations".
 - Dec., 2024. [Broad Annual Retreat](https://www.broadinstitute.org). "Learning and Design of Large-scale Perturbations".

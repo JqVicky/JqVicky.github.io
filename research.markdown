@@ -8,10 +8,15 @@ permalink: /research/
 
 _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that I mentored.
 
-#### <span style="color:#556B2F">Preprints</span>
+#### <span style="color:#556B2F">Manuscript</span>
+
+**A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
+Jiaqi Zhang, Marc Schwartz, Orr Ashenberg, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Nir Hacohen\*, Caroline Uhler\*.\\
+[[available upon request](/contact/)]
 
 **Causal Structure and Representation Learning with Biomedical Applications**\\
-Caroline Uhler\*, Jiaqi Zhang\*.
+Caroline Uhler\*, Jiaqi Zhang\*.\\
+[[available upon request](/contact/)]
 
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
@@ -20,7 +25,8 @@ Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bibtex](/morph/)]
 
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
-Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. 
+Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
+[[available upon request](/contact/)]
 
 **Learning Genetic Perturbation Effects with Variational Causal Inference**\\
 Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\

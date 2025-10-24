@@ -17,15 +17,25 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 - Dec., 2025 (upcoming). We are organizing a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the topics and join us!
 - Jul., 2025. We organized an ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
 - Jul., 2025. _[How to more efficiently study complex treatment interaction](https://news.mit.edu/2025/more-efficiently-studying-complex-treatment-interactions-0716)_: MIT news covered our [work](https://icml.cc/virtual/2025/poster/45285) on experimental design.
+- Dec., 2024. Honored to receive the [Stuart L. Schreiber Awards in Scientific Excellence](https://www.ericandwendyschmidtcenter.org/updates/jiaqi-zhang-stuart-l-schreiber-award).
 - Nov., 2024. _[A causal theory for studying the cause-and-effect relationships of genes](https://news.mit.edu/2024/causal-theory-studying-cause-and-effect-relationships-genes-1107)_: MIT news covered our [work](https://neurips.cc/virtual/2024/poster/95550) on causal theory.
+- Oct., 2024. Happy to be selected for the [Rising Star in EECS 2024](https://risingstars-eecs.mit.edu/current-workshop/workshop-2024/) cohort. Learn more about the workshop [here](https://risingstars-eecs.mit.edu).
+- Mar., 2024. Happy to present at [Women in Data Science (WiDS)](https://www.widscambridge.org/copy-of-wids-cambridge-2023) conference. Learn more about the conference [here](https://www.widscambridge.org).
 - Oct., 2023. _[A more effective experimental design for engineering a cell into a new state](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002)_: MIT news covered our [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [EWSC news](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
+- Mar., 2023. We hosted the [Cancer Immunotherapy Data Science Grand Challenge](https://www.topcoder.com/challenges/0494170d-3136-4139-89e0-6c1b009c66a2), as first within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) project at Eric and Wendy Schmidt center. Read about the challenge [here](https://www.broadinstitute.org/news/machine-learning-experts-around-world-compete-improve-cancer-immunotherapy).
+
 
 ## <span style="color:#556B2F">Papers
 
-### <span style="color:#556B2F">Preprints
+### <span style="color:#556B2F">Manuscript
+
+**A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
+Jiaqi Zhang, Marc Schwartz, Orr Ashenberg, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Nir Hacohen\*, Caroline Uhler\*.\\
+[[available upon request](/contact/)]
 
 **Causal Structure and Representation Learning with Biomedical Applications**\\
-Caroline Uhler\*, Jiaqi Zhang\*.
+Caroline Uhler\*, Jiaqi Zhang\*.\\
+[[available upon request](/contact/)]
 
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
@@ -34,7 +44,8 @@ Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bibtex](/morph/)]
 
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
-Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.
+Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
+[[available upon request](/contact/)]
 
 **Learning Genetic Perturbation Effects with Variational Causal Inference**\\
 Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
