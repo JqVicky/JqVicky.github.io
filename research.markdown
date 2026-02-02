@@ -14,25 +14,11 @@ _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that 
 Jiaqi Zhang, Marc Schwartz, Orr Ashenberg, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Nir Hacohen\*, Caroline Uhler\*.\\
 [[available upon request](/contact/)]
 
-**Causal Structure and Representation Learning with Biomedical Applications**\\
-Caroline Uhler\*, Jiaqi Zhang\*.\\
-[[available upon request](/contact/)]
-
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]
 [[code](https://github.com/uhlerlab/MORPH)]
 [[bibtex](/morph/)]
-
-**On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
-Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
-[[available upon request](/contact/)]
-
-**Learning Genetic Perturbation Effects with Variational Causal Inference**\\
-Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler.\\
-[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
-[[code](https://github.com/uhlerlab/sccvae)]
-[[bibtex](/sccvae/)]
 
 **Faithfulness and Intervention-Only Causal Discovery**\\
 Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
@@ -47,9 +33,29 @@ Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
 
 #### <span style="color:#556B2F">Publications</span>
 
-**Can Diffusion Models Disentangle? A Theoretical Perspective**\\
-Liming Wang, Muhammad Jehanzeb Mirza, Yishu Gong, Yuan Gong, Jiaqi Zhang, Brian H. Tracey, Katerina Placek, Marco Vilela, James R. Glass. _NeurIPS_, 2025.
+**On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
+Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Spotlight Presentation, <3%**)_, 2026.\\
+[[conference to appear](/contact/)]
+[[available upon request](/contact/)]
 
+**Learning Genetic Perturbation Effects with Variational Causal Inference**\\
+Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _PLOS Computational Biology_, 2026.\\
+[[journal to appear](/contact/)]
+[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
+[[code](https://github.com/uhlerlab/sccvae)]
+[[bibtex](/sccvae/)]
+
+**Causal Structure and Representation Learning with Biomedical Applications**\\
+Caroline Uhler\*, Jiaqi Zhang\*. _Proceedings of the International Congress of Mathematicians_, 2026.\\
+[[conference to appear](/contact)]
+[[arXiv](https://arxiv.org/abs/2511.04790)]
+[[bibtex](/cs-rl-bioa/)]
+
+**Can Diffusion Models Disentangle? A Theoretical Perspective**\\
+Liming Wang, Muhammad Jehanzeb Mirza, Yishu Gong, Yuan Gong, Jiaqi Zhang, Brian H. Tracey, Katerina Placek, Marco Vilela, James R. Glass. _NeurIPS_, 2025. \\
+[[arXiv](https://arxiv.org/abs/2504.00220)]
+[[conference](https://neurips.cc/virtual/2025/loc/san-diego/poster/115538)]
+[[bibtex](/diff-disentangle/)]
 
 **Probabilistic Factorial Experimental Design for Combinatorial Interventions**\\
 Divyal Shyamal$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _ICML (**Spotlight, < 2.6%**)_, 2025.\\
