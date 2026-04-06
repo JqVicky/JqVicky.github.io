@@ -36,7 +36,7 @@ Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
 Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Spotlight Presentation, <3%**)_, 2026.\\
 [[conference to appear](/contact/)]
-[[available upon request](/contact/)]
+[[arXiv](https://arxiv.org/abs/2603.21844)]
 
 **Learning Genetic Perturbation Effects with Variational Causal Inference**\\
 Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _PLOS Computational Biology_, 2026.\\
