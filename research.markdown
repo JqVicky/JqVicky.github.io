@@ -37,6 +37,7 @@ Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
 Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Spotlight Presentation, <3%**)_, 2026.\\
 [[conference to appear](/contact/)]
 [[arXiv](https://arxiv.org/abs/2603.21844)]
+[[bibtex](/gas/)]
 
 **Learning Genetic Perturbation Effects with Variational Causal Inference**\\
 Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _PLOS Computational Biology_, 2026.\\
