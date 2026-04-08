@@ -11,7 +11,7 @@ _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that 
 #### <span style="color:#556B2F">Manuscript</span>
 
 **A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
-Jiaqi Zhang, Marc Schwartz, Orr Ashenberg, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Nir Hacohen\*, Caroline Uhler\*.\\
+Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
 [[available upon request](/contact/)]
 
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\

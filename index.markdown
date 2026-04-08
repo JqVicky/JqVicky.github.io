@@ -14,7 +14,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 
 ## <span style="color:#556B2F">News
 
-- <b>Apr., 2026. We are organizing the Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2026)) 2026 conference at the Broad Institute of MIT and Harvard between April 6th to 8th. Check out the full agenda [here](https://www.cclear.cc/2026/FullAgenda)!</b>
+- Apr., 2026. We organized the Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2026)) 2026 conference at the Broad Institute of MIT and Harvard between April 6th to 8th. Check out the full agenda and contributions [here](https://www.cclear.cc/2026/FullAgenda)!
 - Dec., 2025. We organized a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the talks and accepted papers. Follow our official X account [@CauScien](https://x.com/CauScien) for more updates from the growing community.
 - Jul., 2025. We organized an ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
 - Jul., 2025. _[How to more efficiently study complex treatment interaction](https://news.mit.edu/2025/more-efficiently-studying-complex-treatment-interactions-0716)_: MIT news covered our [work](https://icml.cc/virtual/2025/poster/45285) on experimental design.
@@ -31,7 +31,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 ### <span style="color:#556B2F">Manuscript
 
 **A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
-Jiaqi Zhang, Marc Schwartz, Orr Ashenberg, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Nir Hacohen\*, Caroline Uhler\*.\\
+Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
 [[available upon request](/contact/)]
 
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
