@@ -14,6 +14,11 @@ _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that 
 Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
 [[available upon request](/contact/)]
 
+**Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
+Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler.\\
+[[arXiv](https://arxiv.org/abs/2601.15341)]
+[[bibtex](/lcd/)]
+
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]

@@ -5,6 +5,7 @@ permalink: /talk/
 ---
 ### <span style="color:#556B2F">Invited Talks
 
+- Mar., 2026. [CAUSALab | Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu/research/causalab/). Panel on: "Mapping current uses of AI".
 - Oct., 2025. [Model Inference & Algorithms (MIA) 10-Year Anniversary Celebration](http://events.broadinstitute.org/event/mia-10-year-anniversary-celebration). "How to predict perturbational changes on biological systems?".
 - Oct., 2025. [Gene Regulation Observatory (GRO) Seminar](https://sites.broadinstitute.org/gro). "A Community Computational Challenge to Predict Perturbational Effects on T Cell State Proportions for Effective Cancer Immunotherapy".
 - Sep., 2025. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). "Learning Causal Cellular Programs from Large-scale Perturbations".

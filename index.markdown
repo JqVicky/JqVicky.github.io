@@ -14,6 +14,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 
 ## <span style="color:#556B2F">News
 
+- <b>NOW. We are hosting the [Obesity Machine Learning Competition](https://www.ericandwendyschmidtcenter.org/ml-competitions/obesity-ml-competition) to tackle metabolic diseases, as second within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center. Read and register now for [Crunch 1](https://hub.crunchdao.com/competitions/broad-obesity-1) and [Crunch 2](https://hub.crunchdao.com/competitions/broad-obesity-2), and stay tuned for Crunch 3!</b>
 - Apr., 2026. We organized the Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2026)) 2026 conference at the Broad Institute of MIT and Harvard between April 6th to 8th. Check out the full agenda and contributions [here](https://www.cclear.cc/2026/FullAgenda)!
 - Dec., 2025. We organized a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the talks and accepted papers. Follow our official X account [@CauScien](https://x.com/CauScien) for more updates from the growing community.
 - Jul., 2025. We organized an ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
@@ -23,7 +24,7 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 - Oct., 2024. Happy to be selected for the [Rising Star in EECS 2024](https://risingstars-eecs.mit.edu/current-workshop/workshop-2024/) cohort. Learn more about the workshop [here](https://risingstars-eecs.mit.edu).
 - Mar., 2024. Happy to present at [Women in Data Science (WiDS)](https://www.widscambridge.org/copy-of-wids-cambridge-2023) conference. Learn more about the conference [here](https://www.widscambridge.org).
 - Oct., 2023. _[A more effective experimental design for engineering a cell into a new state](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002)_: MIT news covered our [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [EWSC news](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
-- Mar., 2023. We hosted the [Cancer Immunotherapy Data Science Grand Challenge](https://www.topcoder.com/challenges/0494170d-3136-4139-89e0-6c1b009c66a2), as first within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) project at Eric and Wendy Schmidt center. Read about the challenge [here](https://www.broadinstitute.org/news/machine-learning-experts-around-world-compete-improve-cancer-immunotherapy).
+- Mar., 2023. We hosted the [Cancer Immunotherapy Data Science Grand Challenge](https://www.topcoder.com/challenges/0494170d-3136-4139-89e0-6c1b009c66a2), as first within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center. Read about the challenge [here](https://www.broadinstitute.org/news/machine-learning-experts-around-world-compete-improve-cancer-immunotherapy).
 
 
 ## <span style="color:#556B2F">Papers
@@ -33,6 +34,11 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 **A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
 Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
 [[available upon request](/contact/)]
+
+**Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
+Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler.\\
+[[arXiv](https://arxiv.org/abs/2601.15341)]
+[[bibtex](/lcd/)]
 
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
