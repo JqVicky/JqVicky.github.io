@@ -13,7 +13,7 @@ _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that 
 **A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
 Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.21.726863v1.abstract)]
-[[bibtex][/tcell-challenge/]
+[[bibtex](/tcell-challenge/)]
 
 **Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
 Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler.\\
@@ -35,7 +35,7 @@ Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
 [[arXiv](https://arxiv.org/abs/2607.11816)]
 [[shorter version at workshop](https://icml.cc/virtual/2025/47390)]
 [[code](https://github.com/honeybijan/Intervention-Only-Causal-Discovery)]
-[[bibtex]][/faithful-int-only/]
+[[bibtex](/faithful-int-only/)]
 
 **Meta-Dependence in Conditional Independence Testing**\\
 Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
