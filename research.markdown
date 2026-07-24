@@ -11,8 +11,9 @@ _Notes:_ \* stands for equal contributions; $^\dagger$ stands for students that 
 #### <span style="color:#556B2F">Manuscript</span>
 
 **A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
-Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
-[[available upon request](/contact/)]
+Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
+[[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.21.726863v1.abstract)]
+[[bibtex][/tcell-challenge/]
 
 **Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
 Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler.\\
@@ -25,18 +26,23 @@ Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[code](https://github.com/uhlerlab/MORPH)]
 [[bibtex](/morph/)]
 
-**Faithfulness and Intervention-Only Causal Discovery**\\
-Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
-[[workshop](https://icml.cc/virtual/2025/47390)]
+
+#### <span style="color:#556B2F">Publications</span>
+
+**Relaxing Faithfulness with Intervention-Only Causal Discovery**\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
+[[conference to appear](/contact/)]
+[[arXiv](https://arxiv.org/abs/2607.11816)]
+[[shorter version at workshop](https://icml.cc/virtual/2025/47390)]
+[[code](https://github.com/honeybijan/Intervention-Only-Causal-Discovery)]
+[[bibtex]][/faithful-int-only/]
 
 **Meta-Dependence in Conditional Independence Testing**\\
-Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
+[[conference to appear](/contact/)]
 [[arXiv](https://arxiv.org/abs/2504.12594)]
 [[code](https://github.com/honeybijan/CIMD_experiments)]
 [[bibtex](/meta-dep-ci/)]
-
-
-#### <span style="color:#556B2F">Publications</span>
 
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
 Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Spotlight Presentation, <3%**)_, 2026.\\

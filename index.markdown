@@ -8,13 +8,13 @@ layout: home
 
 ## <span style="color:#556B2F">About Me
 
-I’m an incoming Assistant Professor at Columbia University in the Department of Computer Science with affiliation in Systems Biology. I recently earned my PhD in MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing theoretical and algorithmic foundations for discovery and decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships from data, model and extrapolate to predict the effects of interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools help accelerate mechanistic discovery and translation to biomedical engineering.
+I’m an incoming Assistant Professor at Columbia University in Computer Science, with an affiliation in Systems Biology. I recently earned my PhD at MIT EECS, advised by [Caroline Uhler](https://www.carolineuhler.com). My research focuses on establishing theoretical and algorithmic foundations for discovery and decision-making within systems created by underlying causal rules. In particular, I develop tools to understand causal relationships from data, model and extrapolate to predict the effects of interventions, and select informative interventions for experimental design. Motivated by problems in cell biology, these tools help accelerate and translate to biomedical discovery.
 
-My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellowship](https://www.ericandwendyschmidtcenter.org/graduate-students) and the [Apple Scholarship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2023). I was a research intern at [Bytedance](https://www.bytedance.com/en/resources/offices/5e429e0805204d81e5b45c92), [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/), and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu), and [Le Cong](http://clbiology.com/index.html). I am a recipient of the Stuart L. Schreiber Award in Scientific Excellence and was selected for Rising Stars in EECS.
+I was a research intern at [Bytedance](https://www.bytedance.com/en/resources/offices/5e429e0805204d81e5b45c92), [Microsoft Research](https://www.microsoft.com/en-us/research/project/project_azua/overview/), and [Apple](https://www.apple.com/careers/us/work-at-apple/seattle.html). I obtained my Bachelor’s degree in Mathematics from Peking University, where I worked with [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/), [Mengdi Wang](https://mwang.princeton.edu), and [Le Cong](http://clbiology.com/index.html). 
 
 ## <span style="color:#556B2F">News
 
-- <b>_NOW_. We are hosting the [Obesity Machine Learning Competition](https://www.ericandwendyschmidtcenter.org/ml-competitions/obesity-ml-competition) to tackle metabolic diseases, as the latest series within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center. Read [Crunch 1](https://hub.crunchdao.com/competitions/broad-obesity-1) and register now for [Crunch 2](https://hub.crunchdao.com/competitions/broad-obesity-2)! Stay tuned for [Crunch 3]()!</b>
+- <b>_NOW_. We are hosting the [Obesity Machine Learning Competition](https://www.ericandwendyschmidtcenter.org/ml-competitions/obesity-ml-competition) to tackle metabolic diseases, as the latest series within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center.</b>
 - Apr., 2026. We organized the Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2026)) 2026 conference at the Broad Institute of MIT and Harvard between April 6th to 8th. Check out the full agenda and contributions [here](https://www.cclear.cc/2026/FullAgenda)!
 - Dec., 2025. We organized a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the talks and accepted papers. Follow our official X account [@CauScien](https://x.com/CauScien) for more updates from the growing community.
 - Jul., 2025. We organized an ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
@@ -26,14 +26,24 @@ My research has been supported by the [Eric and Wendy Schmidt Center PhD Fellows
 - Oct., 2023. _[A more effective experimental design for engineering a cell into a new state](https://news.mit.edu/2023/more-effective-experimental-design-genome-regulation-1002)_: MIT news covered our [work](https://www.nature.com/articles/s42256-023-00719-0) on active learning in causal models. Read also on [EWSC news](https://www.ericandwendyschmidtcenter.org/updates/a-more-effective-experimental-design-for-engineering-a-cell-into-a-new-state).
 - Mar., 2023. We hosted the [Cancer Immunotherapy Data Science Grand Challenge](https://www.topcoder.com/challenges/0494170d-3136-4139-89e0-6c1b009c66a2), as first within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center. Read about the challenge [here](https://www.broadinstitute.org/news/machine-learning-experts-around-world-compete-improve-cancer-immunotherapy).
 
+## <span style="color:#556B2F">Awards
+
+- Stuart L. Schreiber Award in Scientific Excellence, Broad Institute (2024)
+- Rising Stars in EECS (2024)
+- Apple AI/ML PhD Fellowship (2023-2025)
+- Eric and Wendy Schmidt Center PhD Fellowship (2022-2023)
+- Member of National Mathematics Training Team of China (2016)
+- Gold medal in CMO (2016)
+- Rank 1st in Chinese Girls' Mathematics Olympics (2015)
 
 ## <span style="color:#556B2F">Papers
 
 ### <span style="color:#556B2F">Manuscript
 
 **A Community Machine Learning Challenge to Predict the Effects of Gene Perturbations on T Cell Differentiation for Cancer Immunotherapy**\\
-Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, ..., Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
-[[available upon request](/contact/)]
+Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, Yuri Pritykin, Orr Ashenberg\*, Nir Hacohen\*, Caroline Uhler\*.\\
+[[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.21.726863v1.abstract)]
+[[bibtex][/tcell-challenge/]
 
 **Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
 Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler.\\
@@ -46,20 +56,25 @@ Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[code](https://github.com/uhlerlab/MORPH)]
 [[bibtex](/morph/)]
 
-**Faithfulness and Intervention-Only Causal Discovery**\\
-Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
-[[workshop](https://icml.cc/virtual/2025/47390)]
+### <span style="color:#556B2F">Publications
+
+**Relaxing Faithfulness with Intervention-Only Causal Discovery**\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
+[[conference to appear](/contact/)]
+[[arXiv](https://arxiv.org/abs/2607.11816)]
+[[shorter version at workshop](https://icml.cc/virtual/2025/47390)]
+[[code](https://github.com/honeybijan/Intervention-Only-Causal-Discovery)]
+[[bibtex]][/faithful-int-only/]
 
 **Meta-Dependence in Conditional Independence Testing**\\
-Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler.\\
+Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
+[[conference to appear](/contact/)]
 [[arXiv](https://arxiv.org/abs/2504.12594)]
 [[code](https://github.com/honeybijan/CIMD_experiments)]
 [[bibtex](/meta-dep-ci/)]
 
-### <span style="color:#556B2F">Publications
-
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
-Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Oral Presentation, <3%**)_, 2026.\\
+Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Spotlight Presentation, <3%**)_, 2026.\\
 [[conference to appear](/contact/)]
 [[arXiv](https://arxiv.org/abs/2603.21844)]
 [[bibtex](/gas/)]

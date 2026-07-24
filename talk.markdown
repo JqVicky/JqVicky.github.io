@@ -5,6 +5,7 @@ permalink: /talk/
 ---
 ### <span style="color:#556B2F">Invited Talks
 
+- Jul., 2026. [Microsoft Research New England Generative Modeling & Sampling Seminar](https://www.microsoft.com/en-us/research/event/microsoft-research-new-england-generative-modeling-sampling-seminar/). "Learning Genetic Perturbation Effects at Single-Cell Resolution for Virtual Cells".
 - Mar., 2026. [CAUSALab at Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu/research/causalab/). Panel on: "Mapping current uses of AI".
 - Oct., 2025. [Model Inference & Algorithms (MIA) 10-Year Anniversary Celebration](http://events.broadinstitute.org/event/mia-10-year-anniversary-celebration). "How to predict perturbational changes on biological systems?".
 - Oct., 2025. [Gene Regulation Observatory (GRO) Seminar](https://sites.broadinstitute.org/gro). "A Community Computational Challenge to Predict Perturbational Effects on T Cell State Proportions for Effective Cancer Immunotherapy".
@@ -25,6 +26,10 @@ permalink: /talk/
 - Oct., 2022. [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home). "Active learning for optimal inrtervention design in causal model".
 
 ### <span style="color:#556B2F">Online Videos
+
+- Jul., 2026. Learning Genetic Perturbation Effects at Single-Cell Resolution for Virtual Cells
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KXvmKnz-vpQ?si=-Z5XkoNsm3hzCctB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Sep., 2025. Learning Causal Cellular Programs from Large-scale Perturbations
 
