@@ -14,7 +14,7 @@ I was a research intern at [Bytedance](https://www.bytedance.com/en/resources/of
 
 ## <span style="color:#556B2F">News
 
-- <b>_NOW_. We are hosting the [Obesity Machine Learning Competition](https://www.ericandwendyschmidtcenter.org/ml-competitions/obesity-ml-competition) to tackle metabolic diseases, as the latest series within our [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center.</b>
+- <b>_NOW_. We are hosting the [Obesity Machine Learning Competition](https://www.ericandwendyschmidtcenter.org/ml-competitions/obesity-ml-competition) to tackle metabolic diseases, as the latest series within the [Cell Perturbation Prediction Challenge (CPPC)](https://www.ericandwendyschmidtcenter.org/flagship-projects#flagship-1) at Eric and Wendy Schmidt center.</b>
 - Apr., 2026. We organized the Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2026)) 2026 conference at the Broad Institute of MIT and Harvard between April 6th to 8th. Check out the full agenda and contributions [here](https://www.cclear.cc/2026/FullAgenda)!
 - Dec., 2025. We organized a NeurIPS2025 workshop on _[Uncovering Causality in Science (CauScien)](https://sites.google.com/view/causcien)_. Check out the talks and accepted papers. Follow our official X account [@CauScien](https://x.com/CauScien) for more updates from the growing community.
 - Jul., 2025. We organized an ICML2025 workshop on _[Scaling up Intervention Models (SIM)](https://sites.google.com/view/sim-icml2025/home)_. Check out the talks and accepted papers.
