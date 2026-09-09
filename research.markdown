@@ -15,11 +15,6 @@ Jiaqi Zhang, Marc Schwartz, Mohammed Mutaher, Oluwatomisin Olajide, Yuri Prityki
 [[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.05.21.726863v1.abstract)]
 [[bibtex](/tcell-challenge/)]
 
-**Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
-Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler.\\
-[[arXiv](https://arxiv.org/abs/2601.15341)]
-[[bibtex](/lcd/)]
-
 **MORPH Predicts the Single-cell Outcome of Genetic Perturbations across Various Data Modalities**\\
 Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1)]
@@ -29,37 +24,43 @@ Chujun He\*, Jiaqi Zhang\*, Munther Dahleh, Caroline Uhler.\\
 
 #### <span style="color:#556B2F">Publications</span>
 
+**Latent Causal Diffusions for Single-Cell Perturbation Modeling**\\
+Lars Lorch, Jiaqi Zhang, Charlotte Bunne, Andreas Krause, Bernhard Schölkopf, Caroline Uhler. _PNAS_, 2026.\\
+[[journal to appear](/contact/)]
+[[arXiv](https://arxiv.org/abs/2601.15341)]
+[[bibtex](/lcd/)]
+
 **Relaxing Faithfulness with Intervention-Only Causal Discovery**\\
 Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
-[[conference to appear](/contact/)]
+[[conference](https://proceedings.mlr.press/v337/mazaheri26b.html)]
 [[arXiv](https://arxiv.org/abs/2607.11816)]
 [[shorter version at workshop](https://icml.cc/virtual/2025/47390)]
 [[code](https://github.com/honeybijan/Intervention-Only-Causal-Discovery)]
-[[bibtex](/faithful-int-only/)]
+[[bibtex](/26-faithful-int-only/)]
 
 **Meta-Dependence in Conditional Independence Testing**\\
 Bijan Mazaheri, Jiaqi Zhang, Caroline Uhler. _UAI_, 2026.\\
-[[conference to appear](/contact/)]
+[[conference](https://proceedings.mlr.press/v337/mazaheri26a.html)]
 [[arXiv](https://arxiv.org/abs/2504.12594)]
 [[code](https://github.com/honeybijan/CIMD_experiments)]
-[[bibtex](/meta-dep-ci/)]
+[[bibtex](/26-meta-dep-ci/)]
 
 **On the Number of Conditional Indepdence Tests in Constraint-based Causal Discovery**\\
 Marc Franquesa Monés$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _AISTATS (**Spotlight Presentation, <3%**)_, 2026.\\
-[[conference to appear](/contact/)]
+[[conference](https://proceedings.mlr.press/v300/mones26a.html)]
 [[arXiv](https://arxiv.org/abs/2603.21844)]
-[[bibtex](/gas/)]
+[[bibtex](/26-gas/)]
 
 **Learning Genetic Perturbation Effects with Variational Causal Inference**\\
 Emily Liu$^\dagger$\*, Jiaqi Zhang\*, Caroline Uhler. _PLOS Computational Biology_, 2026.\\
-[[journal to appear](/contact/)]
+[[journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013194)]
 [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.05.657988v1)]
 [[code](https://github.com/uhlerlab/sccvae)]
-[[bibtex](/sccvae/)]
+[[bibtex](/26-sccvae/)]
 
 **Causal Structure and Representation Learning with Biomedical Applications**\\
 Caroline Uhler\*, Jiaqi Zhang\*. _Proceedings of the International Congress of Mathematicians_, 2026.\\
-[[conference to appear](/contact)]
+[[conference](https://epubs.siam.org/doi/full/10.1137/25M1805849)]
 [[arXiv](https://arxiv.org/abs/2511.04790)]
 [[bibtex](/cs-rl-bioa/)]
 
